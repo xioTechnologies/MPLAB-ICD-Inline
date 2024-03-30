@@ -1,0 +1,19 @@
+Altium Designer Pick and Place Locations
+C:\MyFiles\x-io\Open-Source\MPLAB-ICD-Inline\Project Outputs for MPLAB-ICD-Inline\Pick Place\Pick Place for MPLAB-ICD-Inline.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       30/03/24
+Time:       09:10
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation","Comment"
+"J3","43.8100mm","33.0000mm","TopLayer","270","Molex 90121-0766"
+"TP2","20.0000mm","33.0000mm","TopLayer","0","Keystone 5011"
+"TP1","13.0000mm","33.0000mm","TopLayer","0","Keystone 5010"
+"S1","30.0000mm","36.0000mm","TopLayer","270","FSM4JHX"
+"J1","22.4450mm","48.0000mm","TopLayer","270","Molex 95501-2661"
+"J2","40.5550mm","48.0000mm","TopLayer","90","Molex 95501-2661"
